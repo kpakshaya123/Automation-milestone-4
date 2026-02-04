@@ -1,0 +1,114 @@
+# Agile Project Execution Document
+
+## Project Title
+Java Batch Final Project – Milestone Four
+
+## Project Duration
+15-01-2026 to 28-01-2026
+
+## Development Methodology
+Agile Methodology (Iterative and Incremental)
+
+## Technology Stack
+- Java
+- Maven
+- Eclipse IDE, IntelliJ IDE
+- Git & GitHub
+
+---
+
+## Sprint 1 – Requirement Analysis & Planning
+**Date:** 15-01-2026
+
+### Activities:
+- Analyzed milestone problem statement
+- Understood functional requirements
+- Identified project structure and modules
+- Finalized tools and technologies
+
+### Outcome:
+Clear understanding of project scope and execution plan
+
+---
+
+## Sprint 2 – Project Setup & Environment Configuration
+**Date:** 16-01-2026
+
+### Activities:
+- Created Maven project structure
+- Configured `pom.xml`
+- Set up source and test directories
+- Initialized Git repository
+
+### Outcome:
+Project environment and base structure ready
+
+---
+
+## Sprint 3 – Core Application Development
+**Date:** 18-01-2026
+
+### Activities:
+- Implemented core Java classes
+- Developed application logic
+- Created main execution flow
+- Followed modular coding practices
+
+### Outcome:
+Core functionality implemented successfully
+
+---
+
+## Sprint 4 – Testing & Validation
+**Date:** 21-01-2026
+
+### Activities:
+- Created test classes under `src/test/java`
+- Performed unit testing
+- Fixed logical and runtime errors
+- Improved code quality
+
+### Outcome:
+Application tested and validated
+
+---
+
+## Sprint 5 – Version Control & Repository Management
+**Date:** 24-01-2026
+
+### Activities:
+- Cleaned Git history
+- Created a new GitHub repository
+- Pushed project with proper commits
+- Organized repository structure
+
+### Outcome:
+Project successfully versioned and hosted on GitHub
+
+---
+
+## Sprint 6 – Documentation & Licensing
+**Date:** 27-01-2026
+
+### Activities:
+- Created README file
+- Added MIT License
+- Prepared Agile execution document
+- Final code review
+
+### Outcome:
+Project fully documented and ready for submission
+
+---
+
+## Final Status
+**Date:** 28-01-2026
+
+- All milestone requirements completed
+- Project follows Agile methodology
+- Code and documentation uploaded to GitHub
+
+---
+
+## Conclusion
+The project was developed using Agile methodology, allowing incremental development, continuous testing, and timely completion of the milestone.
