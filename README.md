@@ -1,9 +1,11 @@
 🔗 Java Batch Final Project – Milestone Four
 🔗 Project Description
+
 This project is a Java-based Test Automation Framework developed as part of the Java Batch Milestone assessment.
 It follows Agile methodology, uses Maven for dependency management, and implements the Page Object Model (POM) design pattern.
 
 🔗 Methodology
+
 Agile Methodology was followed throughout the project lifecycle.
 
 Development was carried out iteratively across multiple sprints including:
